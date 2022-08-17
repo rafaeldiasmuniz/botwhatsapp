@@ -4,7 +4,7 @@ import keyboard
 import time
 from datetime import datetime
 #contatos que serao enviado as msg
-contatos= ["+5111968568960"] #necessario inserir um numero
+contatos= ["*****-*****"] #necessario inserir um numero
 #definir intervalo
 time.sleep(10)
 while len(contatos)>=1:
